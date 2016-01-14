@@ -1,0 +1,24 @@
+{
+  "name": "adbkeyboard",
+  "version": "0.0.0",
+  "version": "0.0.2",
+  "description": "Using your keyboard as a remote keyboard for Android over ADB",
+  "main": "index.js",
+  "preferGlobal": true,
+  "main": "./index.js",
+  "bin": {
+    "adbkeyboard": "index.js"
+  },
+  "keywords": [
+    "adb",
+    "android",
+    "keyboard",
+    "remote"
+  ],
+  "author": "KeizerDev",
+  "license": "BSD",
+  "dependencies": {
+    "chalk": "~1.1.1",
+    "shelljs": "~0.5.3"
+  }
+}
