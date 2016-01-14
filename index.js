@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var chalk = require('chalk');
 var shell = require('shelljs');
 var readline = require('readline');
