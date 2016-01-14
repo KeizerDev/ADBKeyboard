@@ -5,6 +5,7 @@
   "description": "Using your keyboard as a remote keyboard for Android over ADB",
   "main": "index.js",
   "preferGlobal": true,
+  "repository": "keizerdev/adbkeyboard",
   "main": "./index.js",
   "bin": {
     "adbkeyboard": "index.js"
